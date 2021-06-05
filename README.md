@@ -32,3 +32,5 @@ parse the XML files - which by the way have a bad structure in my opinion since 
 populate the HashMaps with the parsed data
 
 For the full description check http://groglogs.blogspot.ch/2017/05/java-xchange-me-sir-sample-rest-project.html
+
+Project is licensed under a [CreativeCommons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
